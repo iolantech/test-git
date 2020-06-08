@@ -1,0 +1,2 @@
+## Testing conflicts
+Trying to learning about conflicts that i need to fix.
